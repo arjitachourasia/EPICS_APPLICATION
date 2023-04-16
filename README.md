@@ -1,4 +1,4 @@
-# epics_project
+# learnAid project
 
 A new Flutter project.
 
