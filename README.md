@@ -1,4 +1,4 @@
-# learnAid project
+# LearnAid project
 
 A new Flutter project.
 
